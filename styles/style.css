@@ -147,3 +147,7 @@ body{
     .cabecalho__menu{
         gap: 10px;
     }
+        .apresentacao{
+        padding-left: 40px;
+        }
+}
